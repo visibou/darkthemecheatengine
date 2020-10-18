@@ -4,7 +4,7 @@ Dark Theme Cheat Engine is a Cheat Table (.CT) that has LUA scripts that changes
 
 # Why is this useful?
 
-Cheat Engine has a bright white that hurts your eyes as a main color. It's not a huge problem, but this Dark Theme CE fixes that problem.
+Cheat Engine has a bright white that hurts your eyes as it's main color. It's not a huge problem, but this Dark Theme CE fixes that problem.
 
 # Where can I download it?
 
